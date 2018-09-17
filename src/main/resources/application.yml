@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: root
+    url: jdbc:mysql://localhost:13306/bhhx?characterEncoding=utf8&useSSL=false
+    password: newsys4weilai$
+    driver-class-name: com.mysql.jdbc.Driver
