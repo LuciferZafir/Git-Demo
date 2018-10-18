@@ -7,13 +7,13 @@ package com.zhangke.gitdemo.entity;
  */
 public class Demo {
 
-    Integer sum;
+    Double sum;
 
-    public Integer getSum() {
+    public Double getSum() {
         return sum;
     }
 
-    public void setSum(Integer sum) {
+    public void setSum(Double sum) {
         this.sum = sum;
     }
 }
