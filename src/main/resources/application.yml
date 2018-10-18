@@ -1,6 +1,9 @@
 spring:
   datasource:
     username: root
-    url: jdbc:mysql://localhost:13306/bhhx?characterEncoding=utf8&useSSL=false
+    url: jdbc:mysql://localhost:3306/bhhx?characterEncoding=utf8&useSSL=false
     password: newsys4weilai$
     driver-class-name: com.mysql.jdbc.Driver
+
+server:
+  port: 8088
